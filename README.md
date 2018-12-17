@@ -8,7 +8,7 @@ Make sure you do the following:
 
 ### 1. The language we'll use is Python
 
-If you don't know Python yet go check [this course](https://www.udacity.com/course/programming-foundations-with-python--ud036), it's very tourough and teaches all the basics needded for any project with Python. 
+If you don't know Python yet go check [this course](https://www.learnpython.org/en/Hello%2C_World%21), it's very tourough and teaches all the basics needded for any project with Python. 
 As for now we have no idea whether the API will use Python 2 or 3 so we'll leave that for later. 
 If we can choose either one we will use Python 3.
 
