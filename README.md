@@ -20,8 +20,8 @@ In order to merge a PR, we need all the members of the group to approve it.
 
 ### 3. Give meaningful names
 
-I'm not trying to be Menny or anything and make you state what does each variable does but it's easier to understand what variable "points" does over variable "x".
-It's the same with branches, branch "add-bakum-ahori" is easier to understand than branch "feature-23".
+I'm not trying to be Menny or anything and make you state what does each variable does but it's easier to understand what variable `points` does over variable `x`.
+It's the same with branches, branch `add-bakum-ahori` is easier to understand than branch `feature-23`.
 
 ### 4. Delete the branch once it's merged
 
